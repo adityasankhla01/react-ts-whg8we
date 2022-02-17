@@ -1,0 +1,33 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.navbar {
+  border: 2px solid red;
+  display: flex;
+}
+
+.navItems {
+  /* border: 2px solid black; */
+  display: flex;
+  float: left;
+  margin-left: 80vw;
+}
+.navItems li {
+  list-style: none;
+}
+.navItems li a {
+  margin: 1rem;
+  text-decoration: none;
+}
+.logo {
+  list-style: none;
+  margin-left: 1rem;
+}
+.logo a {
+  text-decoration: none;
+}
+.btn-primary {
+  margin: 1rem;
+}
